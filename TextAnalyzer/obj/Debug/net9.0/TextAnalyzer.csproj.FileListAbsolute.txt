@@ -1,0 +1,15 @@
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.exe
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.deps.json
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.runtimeconfig.json
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.dll
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.pdb
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.sourcelink.json
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.dll
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\refint\TextAnalyzer.dll
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.pdb
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.genruntimeconfig.cache
+C:\Users\marzi\Documents\Development\_Github\textanalyzer\TextAnalyzer\obj\Debug\net9.0\ref\TextAnalyzer.dll

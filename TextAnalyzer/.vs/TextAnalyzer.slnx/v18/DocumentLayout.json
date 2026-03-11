@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marzi\\Documents\\Development\\_Github\\textanalyzer\\TextAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B145D1FC-4E6D-6245-F852-05BC4DFA9B8E}|TextAnalyzer.csproj|c:\\users\\marzi\\documents\\development\\_github\\textanalyzer\\textanalyzer\\classes\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B145D1FC-4E6D-6245-F852-05BC4DFA9B8E}|TextAnalyzer.csproj|solutionrelative:classes\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B145D1FC-4E6D-6245-F852-05BC4DFA9B8E}|TextAnalyzer.csproj|c:\\users\\marzi\\documents\\development\\_github\\textanalyzer\\textanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B145D1FC-4E6D-6245-F852-05BC4DFA9B8E}|TextAnalyzer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\textanalyzer\\TextAnalyzer\\classes\\Menu.cs",
+              "RelativeDocumentMoniker": "classes\\Menu.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\textanalyzer\\TextAnalyzer\\classes\\Menu.cs",
+              "RelativeToolTip": "classes\\Menu.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwG8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:44:19.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\textanalyzer\\TextAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\textanalyzer\\TextAnalyzer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:43:16.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
